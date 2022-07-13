@@ -1,0 +1,64 @@
+body{
+    background: #ffffff;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-family: fantasy;
+    margin-top: 20px;
+}
+.col{
+     
+    height: 70px;
+}  
+
+.container{
+    background: #dde0e6;
+    border: #dde0e6 solid 50px;
+    
+}
+
+.reto1 .col{
+     background-color:rgb(82, 197, 82);
+     border: black solid 1px;
+}
+
+.reto1 h2{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+.reto1 h1{
+    font-family: Arial;
+    text-align: center;
+}
+
+.reto2 .col{
+    background-color:rgb(175, 106, 17);
+    border: black solid 1px;
+}
+
+.reto2 h2{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.reto2 h1{
+    font-family: Arial;
+    text-align: center;
+}
+
+.reto3 .col{
+    background-color: rgb(196, 11, 11);
+    color: black;
+    border: black solid 1px;
+}
+
+.reto3 h2{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.reto3 h1{
+    font-family: Arial;
+    text-align: center;
+}
